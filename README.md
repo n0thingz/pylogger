@@ -19,7 +19,7 @@ def on_press(key):
 with Listener(on_press=on_press) as listener:
     listener.join()
     
-======================================================================
+============================
 
 start main.py and a windows opens touch any key on your keyboard and 
 a simple txt file is created his name is "touch.txt" in you can check 
