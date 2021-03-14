@@ -7,7 +7,6 @@ Today i shod you a simple logger in py
 
 =======================================================================
                                CODE
-=======================================================================
 
 from pynput.keyboard import Listener
 import logging
