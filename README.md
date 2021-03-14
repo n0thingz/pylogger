@@ -1,4 +1,4 @@
-# pylogger
+# Pylogger
 A simple keylogger in python for beginner 
 
 Today i shod you a simple logger in py
