@@ -5,8 +5,7 @@ Today i shod you a simple logger in py
 
 
 
-=======================================================================
-                               CODE
+============CODE============
 
 from pynput.keyboard import Listener
 import logging
