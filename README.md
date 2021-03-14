@@ -37,3 +37,11 @@ change 'touch' by want do you want
 
 =============================================
 ![image](https://user-images.githubusercontent.com/73192519/111074750-d1129d00-84e4-11eb-9d41-adb07855b7c4.png)
+
+=================TIPS========================
+
+If you want close this window :
+
+![image](https://user-images.githubusercontent.com/73192519/111074806-2484eb00-84e5-11eb-81fa-b3420cc6964b.png)
+
+Change the extension file .py by .pyw
